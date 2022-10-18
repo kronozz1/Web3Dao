@@ -1,0 +1,7 @@
+Address: it a complex string which represents your account on the blockchian
+
+Wallet: it an application which represents your private key along with your address
+
+Private key: it  a strong password for your account which is on the blockchian ( if your private is stolen then the attacker will have all access to your assets)
+
+Seed phrase: it kind of phrase which is your master password for your wallet

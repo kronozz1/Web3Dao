@@ -1,0 +1,9 @@
+#Consesus mechanisms:
+it is a mechanisms to insure that Records are true and honest.
+
+There are 3 kinds of Consesus mechanisms:
+1. Proof of work: it mechanisms the transaction data are stored in blocks and validated by people having powerful computers ( called Miners). And they get rewarded for that.
+
+2. Proof of stake: the validators are choosen according to the stake they have on the network . More stake means the heigher chance for selection in validators
+
+3. Proof of authority: they are selected by the blockchain authority according to their trust worthiness

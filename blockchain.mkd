@@ -1,0 +1,33 @@
+it is a system of recording in information in such a way that no third party or middle man were used to share the imformation.
+each blocks contains transaction records with the hash encryption.
+
+Nodes:
+We can say that a Node is a disributed network of computer which manages the blockchain network keeps the  golobal transaction records ledger.
+Now there are two types of Nodes:
+1. full Node: it is a full copy of the ledger which is used by the miners to verify transactions and audit them and therefore they get paid for this
+2. partial Node: it a Node with contains a small amount of data of the leger which is used by the normal blockchain users like (us)
+So the moral of the story is All Miners and Nodes but Not All Nodes are miners
+
+
+These chain of blocks are called ladger.
+Each block contains :
+1.The transaction records.
+2.how much other owns the crypto.
+Every person have their own ledger.
+So if anyone try to send more crypto than they have then the recivers lager already have the data of the sender so it will flag it as invalid transaction.
+It cann't be hacked because each blocks is encrypted by complex algorithms.
+
+
+How the transaction is completed in crypto transaction:
+1.jack is the sender and paul is the reciver.
+
+jack send 1coin with boths wallet address ---->> with hash algorithm and jack private key ---->> then this will digitally signed that is transaction came from the jack ---->> then this will transmitted to the whole world with the paul public key ---->> then it only be dicrypted by the jacks private key.
+
+Bitcoin uses SHA256.
+Etherium uses Ethash.
+
+Miners are those who validate the each blocks and add it to the blockchain.
+Miners solves the complex mathematical problems to validates the block.after successfully validating the blocks they were rewarded by the 12.5bitcoin
+The process of solving the algorithm is called proof of work.
+The process of adding the blocks is called Mining.
+With this every users wallet were updated.

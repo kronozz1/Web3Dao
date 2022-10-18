@@ -1,0 +1,9 @@
+liquidity is the measure of how you can convert your assests into another assest with a fixed price without distrubing the market.
+
+## For Example: 
+
+
+# if the liquidity pool is small for shiba inu then:
+if we convert 1 eth in to shib : it's price may vary or ( goese down) for 2/3 eth
+#So the Heigher the liquidity pool will be the fixed price you can get for the swap
+

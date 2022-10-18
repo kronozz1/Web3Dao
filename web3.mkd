@@ -1,0 +1,11 @@
+Web 1.0 :
+in 1991-2004 web1.0 consist only static pages.Means that user can only see the pages and conn't login or comment and So on. At that time users were the consumers.
+
+Web2.0 :
+in 2004-Now web2.0 consist daynamic pages So that they can take information form us too. this is used too much for advertising and lack of privacy.The company collects our information and show us according to what we like.
+
+Web3.0 :
+in web3.0 you will have the control on your own data. your indentity will be highly secured.
+
+
+# Etherjs is better to learn the Web3js because Web3js is the older version of Etherjs.

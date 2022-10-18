@@ -1,0 +1,3 @@
+#What miners Do:
+they brute force to find a another random Hash value . the value is called nonce
+

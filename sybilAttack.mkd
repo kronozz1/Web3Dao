@@ -1,0 +1,7 @@
+#Sybil Attack : it is Attack done by creating mutliple nodes by a single person
+#Sybil Attack is named on the basis of -
+A lady name Sybil Dorsett who had a desease of mutliple personality
+#With Sybil Attack : it a Attack through which an attacker creates mutliple fake nodes to manipulate/ out-vote the honest nodes
+with this attack an attacker can disconnect users from the network
+
+Uncle Block: Blocks that are end up getting deleted from the chain

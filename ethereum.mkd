@@ -1,0 +1,43 @@
+what is ethereum: it is a decentralized blockchain that supports smart
+contracts.unlike bitcoin which only used to make trasactions where ethereum is
+used for more general purpose. with the hepl of ethereum developers can make
+dapps. Dapps can be created on ethereum using it's programming language
+solidity. with help of solidity we can create dapps and deploy them to the
+ethereum network.
+
+ethereum basics: Ethereum was purposed by the Vitalik Buterin . A young
+programmer and co-founder of bitcoin magazine. he used to agrue with the
+bitcion devs that we make blockchain technology to have the much wider impact
+than just making trasactions.he believes that the blockchain can used in
+general purpose programming language and we have to go with it. When he was
+failed to make change there in bitcoin network he made a  new blockchain
+network as with a programming language called solidity that can be used on
+ethereum network.
+
+Ethers: it the currency of ethereum network aka (ether,or eth) . this token is
+used to pay the gas fee for the transaction on ethereum network.
+
+Smart contracts: it a small computer programs that which runs on EVM(ethereum
+virtual machine).it is decentralized and conn't be controlled by anyone not
+even the devlopers.it just a concept of (if) then or  then. 
+
+
+Ethers: it is the most common currency which used to create token or new crypto
+currency. to make a token we have to write a smart contract which is
+responsible for the (creating token , handling transactions ,and keep tracking
+of the balance).to get the token you have to send ether to your smart contract
+then it will give you some amount of tokens.
+
+Gas: it is the unit of measuring the amount of effort is required to perform
+the specific actions on the ethereum blockchain.
+
+#why we need Gas?: lets suppose if there is no gas fee for transactions So this
+will lead to damage to ethereum network how(let suppose if an attacker starts a
+false loop and it never stop so then no one will use the network anymore).
+
+#Now the question is what if the ethereum gas cost is constant: lets suppose
+there are two transactions(easy and hard) a miner got with a constant gas fee .
+So miner will choose the easy transactions all the time and the harder
+transactions will be pending for so long.
+
+

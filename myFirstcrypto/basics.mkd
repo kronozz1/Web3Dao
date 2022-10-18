@@ -1,0 +1,2 @@
+what is ERC: it stands for ethereum request for comment. it just help people to write specifications of a standerd coded code.
+#why use ERC20 to build our own token: lets suppose if you code a crypto So how do the metamusk know the functions,name,and all the source code. So this where ERC20 comes in. it do all the jobs for you.

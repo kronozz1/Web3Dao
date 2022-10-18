@@ -1,0 +1,24 @@
+Gas: it is a transaction fee which is used to calculate the computational efforts requird to perform the specific actions on the etherium blockchain
+Gas fee is unit is 'GWEI' . 1 GWEI = 0.000000001eth -> 0.8zero1eth
+Most of the wallets like ( MetaMusk , CoinBase) allow you to choose ( fast , medium , slow ) transaction speed according to gass fee
+
+# All the transaction goese to the "Mempool" where the miners are waiting for the transactions 
+Miners take the heighest gass fee first.
+## Miners are also limited to infield the transactions on a single block
+
+
+
+#Why gas fee increases? : ( its not because of ethereum price)
+it depends on the network acctivity: network acctivity increases the gas fee increases
+
+
+#why we need Gas?: lets suppose if there is no gas fee for transactions So this
+will lead to damage to ethereum network how(let suppose if an attacker starts a
+false loop and it never stop so then no one will use the network anymore).
+
+#Now the question is what if the ethereum gas cost is constant: lets suppose
+there are two transactions(easy and hard) a miner got with a constant gas fee .
+So miner will choose the easy transactions all the time and the harder
+transactions will be pending for so long.
+
+

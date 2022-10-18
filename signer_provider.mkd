@@ -1,0 +1,14 @@
+## Provider is a Ethereum Node Connection that allows you to read data from the blockchian.
+
+## Signer is a Ethereum Node that allows you to read and right data from the blockchain
+
+## BigNumbers :
+like in Solidity uint256 can store a huge digits But in JaveScript number
+dataType can store very less amount of digits . To resolove this ( " BigNumbers")  are used in javaSrcipt 
+
+##ABI : 
+Application Binary Interface : it used to Provide the webapps proper data conversion from machine to human Back and Fourth..
+However, if you want to call a Solidity function from a web app, you need a 
+way to call the correct bytecode in the contract. To do this, you need a way to 
+convert human-readable function names and parameters into bytecode and back.
+This is where "ABI" comes in it contain the meta data and rules of the function of the contract.

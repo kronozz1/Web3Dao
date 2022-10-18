@@ -1,0 +1,28 @@
+eip1559 : it is mechanism used the ethereum for gas fees and transaction. 
+
+Eip1559 fee Structure:
+A.  Base Fee : 
+Set by ethereum and alway brunt.
+Minimum fee to get in a block.
+it Varies based on network demand.
+
+B. Priority Fee ( tip to miner):
+it goes to the miners directly.
+The more you tip the fast your transaction will be.
+
+
+
+## Before Eip1559:
+When the network demand increases then the gas fee will be increased to 5x.
+
+## After Eip1559: ( Aug 2021) still live
+When the network demand increases then the Block Size Expands 
+and the gas fee will little increased.When network demand decreases then Block Size shrinks
+           
+
+# Benifits:
+1. Better Ux : and overpayment returned to the user
+2. Fluctuating Block Size : ( due to network demand)
+3. Better Security:
+4. network activity will gonna Benifit the network by buring
+5. All time lower gass fee
